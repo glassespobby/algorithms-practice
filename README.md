@@ -1,2 +1,2 @@
 # algorithms-practice
-algorithms-practice on Baekjoon
+algorithms-practice on Baekjoon, Programmers
